@@ -1,0 +1,6 @@
+[submodule "kitty-themes"]
+	path = kitty-themes
+	url = git@github.com:dexpota/kitty-themes.git
+[submodule "catppuccin"]
+	path = catppuccin
+	url = git@github.com:catppuccin/kitty.git
